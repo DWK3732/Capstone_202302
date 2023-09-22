@@ -1,0 +1,42 @@
+변수 목록:
+vo
+time
+depth
+latitude
+longitude
+uo
+차원 목록:
+time
+depth
+latitude
+longitude
+
+변수 'vo':
+자료형: float32
+차원: ('time', 'depth', 'latitude', 'longitude')
+... 기타 정보 ...
+
+변수 'time':
+자료형: float32
+차원: ('time',)
+... 기타 정보 ...
+
+변수 'depth':
+자료형: int16
+차원: ('depth',)
+... 기타 정보 ...
+
+변수 'latitude':
+자료형: float32
+차원: ('latitude',)
+... 기타 정보 ...
+
+변수 'longitude':
+자료형: float32
+차원: ('longitude',)
+... 기타 정보 ...
+
+변수 'uo':
+자료형: float32
+차원: ('time', 'depth', 'latitude', 'longitude')
+... 기타 정보 ...

@@ -1,0 +1,35 @@
+변수 목록:
+longitude
+latitude
+time
+u10
+v10
+차원 목록:
+longitude
+latitude
+time
+
+변수 'longitude':
+자료형: float32
+차원: ('longitude',)
+... 기타 정보 ...
+
+변수 'latitude':
+자료형: float32
+차원: ('latitude',)
+... 기타 정보 ...
+
+변수 'time':
+자료형: int32
+차원: ('time',)
+... 기타 정보 ...
+
+변수 'u10':
+자료형: int16
+차원: ('time', 'latitude', 'longitude')
+... 기타 정보 ...
+
+변수 'v10':
+자료형: int16
+차원: ('time', 'latitude', 'longitude')
+... 기타 정보 ...

@@ -1,0 +1,34 @@
+변수 목록:
+lons
+lats
+times
+drifter
+time
+차원 목록:
+drifter
+time
+
+변수 'lons':
+자료형: float64
+차원: ('drifter', 'time')
+... 기타 정보 ...
+
+변수 'lats':
+자료형: float64
+차원: ('drifter', 'time')
+... 기타 정보 ...
+
+변수 'times':
+자료형: float64
+차원: ('drifter', 'time')
+... 기타 정보 ...
+
+변수 'drifter':
+자료형: float64
+차원: ('drifter',)
+... 기타 정보 ...
+
+변수 'time':
+자료형: float64
+차원: ('time',)
+... 기타 정보 ...
