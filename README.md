@@ -11,6 +11,11 @@ source myvenv/Scripts/activate
 pip install -r requirements.txt
 '''
 
+## python 가상환경에 사용된 패키지 목록 저장하기
+'''python
+pip freeze > requirements.txt
+'''
+
 ## python 가상환경 종료하기
 '''python
 deactivate

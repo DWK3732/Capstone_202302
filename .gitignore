@@ -1,3 +1,6 @@
 # 러닝 데이터 파일
 learn_data/
 *.nc
+
+# python 가상환경
+myvenv/
