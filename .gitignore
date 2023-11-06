@@ -4,3 +4,6 @@ learn_data/
 
 # python 가상환경
 myvenv/
+
+# 결과물 파일
+result/

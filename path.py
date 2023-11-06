@@ -5,7 +5,7 @@ import folium
 for index in range(7):
 
     # 1. csv 파일 읽기
-    data = pd.read_csv(f'predictions_{index}.csv')
+    data = pd.read_csv(f'result/predictions_{index}.csv')
 
     # 2. 필요한 데이터 추출
     lons = data['lons'].values
@@ -22,4 +22,4 @@ for index in range(7):
     folium.PolyLine(list(zip(lats, lons)), color="blue", weight=2.5).add_to(m)
 
     # 4. html 파일로 저장하기(interactive map)
-    m.save(f'map_{index}.html')
+    m.save(f'result/html/map_{index}.html')
